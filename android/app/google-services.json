@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000372890759",
+    "project_id": "resnep-59cbe",
+    "storage_bucket": "resnep-59cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000372890759:android:f77779b720b8895f765c22",
+        "android_client_info": {
+          "package_name": "com.example.resnep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000372890759-3ebsms6rgqklcce6s358s57pa88q1mfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4ejmUMTCtifvIvcfYhYF1_st8t3XNoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000372890759-3ebsms6rgqklcce6s358s57pa88q1mfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
